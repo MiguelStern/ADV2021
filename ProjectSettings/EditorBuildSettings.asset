@@ -14,7 +14,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/prueba2/0-First Steps 1.unity
     guid: b7be407204839ca4582d49c980da1696
-  - enabled: 1
+  - enabled: 0
     path: Assets/vacuum choques/0-First Steps 1.unity
     guid: 5d0ac9fa95f81754593b9d7b0e38c43c
+  - enabled: 0
+    path: Assets/cofrecito+estrella/cofrecillo magico.unity
+    guid: 43a93b52c31c87b438232f11d4ed5f5d
   m_configObjects: {}
