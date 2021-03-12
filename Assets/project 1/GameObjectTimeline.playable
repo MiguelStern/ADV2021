@@ -1,5 +1,39 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9190398593654959210
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
+--- !u!114 &-9055467568517190968
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
 --- !u!114 &-8565412687426646969
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -17,23 +51,6 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &-8555551120341186859
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.138
 --- !u!114 &-8484843788823838799
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -51,7 +68,7 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &-7658645948590403928
+--- !u!114 &-7529531982770563703
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -61,14 +78,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
+  m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.115
---- !u!114 &-7481791603942711285
+    volume: 1
+--- !u!114 &-7379063418771747312
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -78,13 +95,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
+  m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.115
+    volume: 1
 --- !u!114 &-7204783553967368746
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -102,6 +119,23 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
+--- !u!114 &-7087105554488528037
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
 --- !u!114 &-6948999305138572432
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -187,6 +221,23 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
+--- !u!114 &-6188131173709711711
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
 --- !u!114 &-5935637534284332399
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -204,6 +255,74 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
+--- !u!114 &-5724603214729755800
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
+--- !u!114 &-5655572712536302142
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
+--- !u!114 &-5512786198454314550
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
+--- !u!114 &-5310247748009410570
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
 --- !u!114 &-4905080961772800758
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -221,7 +340,7 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &-4747003656178574226
+--- !u!114 &-4494624368209109446
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -231,13 +350,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
+  m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.115
+    volume: 1
 --- !u!114 &-4473886996184043521
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -272,7 +391,7 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &-4214589723095467000
+--- !u!114 &-4075978898140294191
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -282,13 +401,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)
+  m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.154
+    volume: 1
 --- !u!114 &-3562363783997092984
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -306,23 +425,6 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &-3498523581985252754
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.138
 --- !u!114 &-3310853731597701825
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -340,7 +442,7 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &-2812057622231667652
+--- !u!114 &-2766020393656660335
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -350,13 +452,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
+  m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.154
+    volume: 1
+--- !u!114 &-2625521912017985199
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
 --- !u!114 &-2393499294331535360
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -374,23 +493,6 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &-2352002448844916670
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.138
 --- !u!114 &-2269527825562715748
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -408,40 +510,6 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &-2220013562066752783
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.154
---- !u!114 &-2125366748410873256
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.138
 --- !u!114 &-1350011634666340033
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -459,7 +527,7 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &-1117453317569536271
+--- !u!114 &-1130033469698667115
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -469,13 +537,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
+  m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.138
+    volume: 1
 --- !u!114 &-1116302505336445309
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -493,40 +561,6 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &-1074842268302728347
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.138
---- !u!114 &-1040655830455228014
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.154
 --- !u!114 &-1014151890381025860
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -544,7 +578,7 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &-434407466129389082
+--- !u!114 &-471703836341298004
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -556,28 +590,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
   m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.154
---- !u!114 &-364234321077564110
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.138
+    volume: 1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -604,6 +621,23 @@ MonoBehaviour:
     m_ScenePreview: 1
   m_DurationMode: 0
   m_MarkerTrack: {fileID: 518987614322698488}
+--- !u!114 &68906609182209819
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
 --- !u!114 &243515731572772884
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -661,7 +695,7 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &811375272459356447
+--- !u!114 &952022238653485763
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -671,14 +705,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
+  m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.138
---- !u!114 &974594938118485622
+    volume: 1
+--- !u!114 &999719546460143469
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -688,47 +722,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
+  m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.115
---- !u!114 &1108590767668646019
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.115
---- !u!114 &1118212938640736454
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.154
+    volume: 1
 --- !u!114 &1233155401238343854
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -797,6 +797,23 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
+--- !u!114 &2382002298407953669
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
 --- !u!114 &2398692038197848751
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -907,6 +924,40 @@ MonoBehaviour:
   m_OpenClipOffsetRotation: {x: 0, y: 0, z: 0, w: 1}
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
   m_ApplyOffsets: 0
+--- !u!114 &2733098038175121143
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
+--- !u!114 &3026081913040711300
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
 --- !u!114 &3455846083580777579
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -923,24 +974,7 @@ MonoBehaviour:
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.225
---- !u!114 &3473844576965095660
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.154
+    volume: 0.055
 --- !u!114 &3646911380142306491
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -958,23 +992,6 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &3658155848338658831
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.138
 --- !u!114 &3821155546262765654
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1048,7 +1065,7 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &4427575075170906750
+--- !u!114 &4928444122748462851
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1058,30 +1075,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)
+  m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.154
---- !u!114 &4964561360434381878
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.115
+    volume: 1
 --- !u!114 &4985082958636806519
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3079,6 +3079,23 @@ MonoBehaviour:
     volume: 1
     stereoPan: 0
     spatialBlend: 0
+--- !u!114 &5439312348154721735
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
 --- !u!114 &5677437425709864385
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3118,6 +3135,23 @@ MonoBehaviour:
   m_Loop: 0
   m_Version: 1
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
+--- !u!114 &6561965312183727100
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
 --- !u!114 &6574392417062771684
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3135,7 +3169,7 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &6735817137634361336
+--- !u!114 &6722863846516056370
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3145,14 +3179,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)
+  m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.115
---- !u!114 &7435676886650686165
+    volume: 1
+--- !u!114 &6951890281320789530
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3162,13 +3196,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)
+  m_Name: AudioPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
+  m_Clip: {fileID: 8300000, guid: e19c5b1c8c1276740a0d562620ab567e, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.154
+    volume: 1
 --- !u!114 &7667055654888386581
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3298,7 +3332,7 @@ MonoBehaviour:
   m_Loop: 1
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.103
+    volume: 0.228
 --- !u!114 &8223769389989575666
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3443,40 +3477,6 @@ MonoBehaviour:
   m_bufferingTime: 0.1
   m_ClipProperties:
     volume: 0.181
---- !u!114 &9123882905712277642
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.115
---- !u!114 &9166613737547845909
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 335e69f7cca74254da45a91f50d4d90e, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 0.115
 --- !u!114 &9168547605857500203
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3499,10 +3499,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 1.0333333333333334
+    m_Start: 1.0333333333333314
     m_ClipIn: 0
-    m_Asset: {fileID: 7435676886650686165}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: 4928444122748462851}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -3566,12 +3566,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 2.2
+    m_Start: 2.200000000000003
     m_ClipIn: 0
-    m_Asset: {fileID: -3498523581985252754}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: 6561965312183727100}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -3635,12 +3636,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 4.016666666666667
+    m_Start: 4.016666666666666
     m_ClipIn: 0
-    m_Asset: {fileID: 6735817137634361336}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -5655572712536302142}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -3704,12 +3706,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 8.683333333333334
+    m_Start: 8.683333333333337
     m_ClipIn: 0
-    m_Asset: {fileID: -434407466129389082}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: 5439312348154721735}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -3773,12 +3776,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 9.85
+    m_Start: 9.850000000000001
     m_ClipIn: 0
-    m_Asset: {fileID: -364234321077564110}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -6188131173709711711}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -3842,12 +3846,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 11.666666666666655
+    m_Start: 11.666666666666664
     m_ClipIn: 0
-    m_Asset: {fileID: 9123882905712277642}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -2625521912017985199}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -3911,12 +3916,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 16.2
+    m_Start: 16.200000000000003
     m_ClipIn: 0
-    m_Asset: {fileID: 3473844576965095660}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -7087105554488528037}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -3980,12 +3986,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 17.36666666666665
+    m_Start: 17.366666666666667
     m_ClipIn: 0
-    m_Asset: {fileID: -2125366748410873256}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -7529531982770563703}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4049,12 +4056,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 19.183333333333305
+    m_Start: 19.183333333333337
     m_ClipIn: 0
-    m_Asset: {fileID: 1108590767668646019}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -5724603214729755800}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4118,12 +4126,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
     m_Start: 23.766666666666666
     m_ClipIn: 0
-    m_Asset: {fileID: -4214589723095467000}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: 6722863846516056370}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4187,12 +4196,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 24.933333333333316
+    m_Start: 24.933333333333337
     m_ClipIn: 0
-    m_Asset: {fileID: -1074842268302728347}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -4075978898140294191}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4256,12 +4266,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 26.74999999999997
+    m_Start: 26.75
     m_ClipIn: 0
-    m_Asset: {fileID: 9166613737547845909}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: 952022238653485763}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4325,12 +4336,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
     m_Start: 31.4
     m_ClipIn: 0
-    m_Asset: {fileID: 4427575075170906750}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -2766020393656660335}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4394,12 +4406,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 32.56666666666665
+    m_Start: 32.56666666666667
     m_ClipIn: 0
-    m_Asset: {fileID: -2352002448844916670}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: 999719546460143469}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4463,12 +4476,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 34.38333333333328
+    m_Start: 34.38333333333333
     m_ClipIn: 0
-    m_Asset: {fileID: -7658645948590403928}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -9055467568517190968}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4532,12 +4546,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
     m_Start: 38.86666666666667
     m_ClipIn: 0
-    m_Asset: {fileID: -2220013562066752783}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: 68906609182209819}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4601,12 +4616,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 40.03333333333332
+    m_Start: 40.03333333333333
     m_ClipIn: 0
-    m_Asset: {fileID: 811375272459356447}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: 3026081913040711300}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4670,12 +4686,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 41.84999999999995
+    m_Start: 41.85
     m_ClipIn: 0
-    m_Asset: {fileID: -7481791603942711285}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -5310247748009410570}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4739,12 +4756,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
     m_Start: 46.4
     m_ClipIn: 0
-    m_Asset: {fileID: -1040655830455228014}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: 2733098038175121143}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4808,12 +4826,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 47.56666666666665
+    m_Start: 47.56666666666667
     m_ClipIn: 0
-    m_Asset: {fileID: -8555551120341186859}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -5512786198454314550}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4877,12 +4896,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 49.38333333333328
+    m_Start: 49.38333333333333
     m_ClipIn: 0
-    m_Asset: {fileID: 4964561360434381878}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: 6951890281320789530}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -4946,12 +4966,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
     m_Start: 53.96666666666667
     m_ClipIn: 0
-    m_Asset: {fileID: 1118212938640736454}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -9190398593654959210}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -5015,12 +5036,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 55.13333333333332
+    m_Start: 55.13333333333333
     m_ClipIn: 0
-    m_Asset: {fileID: -1117453317569536271}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: 2382002298407953669}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -5084,12 +5106,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 56.94999999999995
+    m_Start: 56.95
     m_ClipIn: 0
-    m_Asset: {fileID: 974594938118485622}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -4494624368209109446}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -5153,12 +5176,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
     m_Start: 61.583333333333336
     m_ClipIn: 0
-    m_Asset: {fileID: -2812057622231667652}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -1130033469698667115}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -5222,12 +5246,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 62.749999999999986
+    m_Start: 62.75
     m_ClipIn: 0
-    m_Asset: {fileID: 3658155848338658831}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -7379063418771747312}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -5291,12 +5316,13 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   - m_Version: 1
-    m_Start: 64.56666666666662
+    m_Start: 64.56666666666666
     m_ClipIn: 0
-    m_Asset: {fileID: -4747003656178574226}
-    m_Duration: 0.33333333333333326
+    m_Asset: {fileID: -471703836341298004}
+    m_Duration: 0.72
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9168547605857500203}
     m_EaseInDuration: 0
@@ -5360,7 +5386,8 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: 000215439_prev
+    m_DisplayName: "\U0001F50A x slime click1 mp3 EFECTOS DE SONIDO GAMER GAMING
+      SOUND EFFECTS \U0001F50A"
   m_Markers:
     m_Objects: []
   m_TrackProperties:
