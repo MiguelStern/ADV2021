@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/prueba 4/0-First Steps 1.unity
     guid: bbcd78879d1823b4f9d6b35d9f01285e
+  - enabled: 1
+    path: Assets/project 2/project 2.unity
+    guid: 4ffa7d3ae7206b246a8a23d3f1626f1e
   m_configObjects: {}
