@@ -10,8 +10,11 @@ public class ControlAnimaciones : MonoBehaviour
     bool b = false;
     private void OnTriggerEnter(Collider other)
     {
-        b = !b;
-        animator.SetBool(parametrosBoolean, b);
+        if (other.tag == "Player")
+        {
+            b = !b;
+            animator.SetBool(parametrosBoolean, b);
+        }
     }
 
     private void Update()
