@@ -14,7 +14,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/prueba 5/prueba 5 states.unity
     guid: 4b6ce1149e4b02440af3ed0e36c23205
-  - enabled: 1
+  - enabled: 0
     path: Assets/task human animation/0-First Steps 1.unity
     guid: 956666f0a2b1ef04d94e8443067897ab
+  - enabled: 0
+    path: Assets/prueba10/0-First Steps 1.unity
+    guid: 897922d98561e9243892b863f976cb83
+  - enabled: 1
+    path: Assets/prueba11/0-First Steps 1.unity
+    guid: 423353b1e37585046b8f9bda5099a3cb
   m_configObjects: {}
