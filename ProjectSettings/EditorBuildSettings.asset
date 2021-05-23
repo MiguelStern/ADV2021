@@ -20,7 +20,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/prueba10/0-First Steps 1.unity
     guid: 897922d98561e9243892b863f976cb83
-  - enabled: 1
+  - enabled: 0
     path: Assets/prueba11/0-First Steps 1.unity
     guid: 423353b1e37585046b8f9bda5099a3cb
+  - enabled: 1
+    path: Assets/last project/New Scene.unity
+    guid: bb1cfbddfdf391147adf7f39b4a9a0d1
   m_configObjects: {}
